@@ -1,7 +1,7 @@
-import { MixedRouteSDK, Trade as RouterTrade } from '@uniswap/router-sdk'
-import { Currency, CurrencyAmount, Ether, Token, TradeType } from '@uniswap/sdk-core'
-import { Pair, Route as V2Route } from '@uniswap/v2-sdk'
-import { Pool, Route as V3Route, FeeAmount } from '@uniswap/v3-sdk'
+import { MixedRouteSDK, Trade as RouterTrade } from '@xeiswap/router-sdk'
+import { Currency, CurrencyAmount, Ether, Token, TradeType } from '@xeiswap/sdk-core'
+import { Pair, Route as V2Route } from '@xeiswap/v2-sdk'
+import { Pool, Route as V3Route, FeeAmount } from '@xeiswap/v3-sdk'
 import { BigNumber } from 'ethers'
 import { ETH_ADDRESS, E_ETH_ADDRESS } from './constants'
 
