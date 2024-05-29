@@ -2229,21 +2229,21 @@
     "@uniswap/v3-core" "1.0.0"
     "@uniswap/v3-periphery" "^1.0.1"
 
-"@xeiswap/router-sdk@0.0.3":
-  version "0.0.3"
-  resolved "https://registry.npmjs.org/@xeiswap/router-sdk/-/router-sdk-0.0.3.tgz#26b686a2695aafb5446010a98524672b53e75aaf"
-  integrity sha512-cqrNulmP1zFTmd6f39Ahzd9KPrWIamWzmD83Hy/VuwS+9YmaOES4h6PyPWviZRuNEsQgaEu9WrxypHsI3Rle0Q==
+"@xeiswap/router-sdk@0.0.4":
+  version "0.0.4"
+  resolved "https://registry.npmjs.org/@xeiswap/router-sdk/-/router-sdk-0.0.4.tgz#b1c2e42774de09c0def7e93f3d43c8271a68da63"
+  integrity sha512-ju8chfJsJDYgfmaoxkE/q6JVNAxSzceHSnIgqLjNe4IM0S+9OG9nZaTzRIjLfx7tAzYgdOxQCGsgnsYO71T1XA==
   dependencies:
     "@ethersproject/abi" "^5.5.0"
     "@uniswap/swap-router-contracts" "^1.1.0"
-    "@xeiswap/sdk-core" "0.0.4"
-    "@xeiswap/v2-sdk" "0.0.4"
-    "@xeiswap/v3-sdk" "0.0.4"
+    "@xeiswap/sdk-core" "0.0.5"
+    "@xeiswap/v2-sdk" "0.0.5"
+    "@xeiswap/v3-sdk" "0.0.5"
 
-"@xeiswap/sdk-core@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.npmjs.org/@xeiswap/sdk-core/-/sdk-core-0.0.4.tgz#287b7bf61d7820250b738e6a3f4a0fbaac478287"
-  integrity sha512-IGXR4piYnlO0FdOim/e3ytZy2Z7TcC/khchaLqk9RELd8upGnxA0nZuA4iYu5r/oarqsMOHAw6vtufNPRHNfSA==
+"@xeiswap/sdk-core@0.0.5":
+  version "0.0.5"
+  resolved "https://registry.npmjs.org/@xeiswap/sdk-core/-/sdk-core-0.0.5.tgz#f978e77e1fa0074823b38ec9103a2732efc1e48c"
+  integrity sha512-nJ+lDYEgdihcDQUZHadaLdsr6jgtQ7OZ4inAw+3J8hel9AhB+QC2wO79eJj3sabuYy4/n7KZLrLwi9H7/6kcJg==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
@@ -2252,28 +2252,28 @@
     tiny-invariant "^1.1.0"
     toformat "^2.0.0"
 
-"@xeiswap/v2-sdk@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.npmjs.org/@xeiswap/v2-sdk/-/v2-sdk-0.0.4.tgz#e6f5cd7173980072c585a2efb619dc4d6a3333e2"
-  integrity sha512-FL16lq8VT3lpB2z/8YSJGWSHd20sarULQ9cR15VVjyFRxhuTzgTNeM/C8JUDyj3qmwy99wuxMyLzJtK8n1L2Pg==
+"@xeiswap/v2-sdk@0.0.5":
+  version "0.0.5"
+  resolved "https://registry.npmjs.org/@xeiswap/v2-sdk/-/v2-sdk-0.0.5.tgz#9f90133e790b49d0e9371acc98894f872efb7048"
+  integrity sha512-rxVkY0cvAcRIJdhXalwnD8iZ3IWjnssPYkgRja7rmhTgocIjWeNAMFyrm9TRpMmFL12maTYHk6Wjcga7pPXZBQ==
   dependencies:
     "@ethersproject/address" "^5.0.0"
     "@ethersproject/solidity" "^5.0.0"
-    "@xeiswap/sdk-core" "0.0.4"
+    "@xeiswap/sdk-core" "0.0.5"
     tiny-invariant "^1.1.0"
     tiny-warning "^1.0.3"
 
-"@xeiswap/v3-sdk@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.npmjs.org/@xeiswap/v3-sdk/-/v3-sdk-0.0.4.tgz#2a2b0ab8614ab0fd97d9d1fbe0f297fb57702811"
-  integrity sha512-Q0ZkCsWp7M29+Kp17etS+1dslQrOnhC9l4/we5kiq1p3Oc+EXXh2JlQJYAnX+KH0LxRR/7WcwZYTDNlZTMbOsw==
+"@xeiswap/v3-sdk@0.0.5":
+  version "0.0.5"
+  resolved "https://registry.npmjs.org/@xeiswap/v3-sdk/-/v3-sdk-0.0.5.tgz#524e88694dba356ca53a3d621f4d801176ba8946"
+  integrity sha512-UgldrCOehfH7yvNwXpueztAY9wQVxKoS1syVmub1AfcLGM3JElVeYL8RqVYEYcfI1F2JVQNx5ARDnyupfmeexw==
   dependencies:
     "@ethersproject/abi" "^5.0.12"
     "@ethersproject/solidity" "^5.0.9"
     "@uniswap/swap-router-contracts" "^1.2.1"
     "@uniswap/v3-periphery" "^1.1.1"
     "@uniswap/v3-staker" "1.0.0"
-    "@xeiswap/sdk-core" "0.0.4"
+    "@xeiswap/sdk-core" "0.0.5"
     tiny-invariant "^1.1.0"
     tiny-warning "^1.0.3"
 
